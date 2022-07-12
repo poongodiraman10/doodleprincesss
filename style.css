@@ -1,0 +1,113 @@
+body{
+  text-align: center;
+
+}
+.top .back-img{
+  margin: auto;
+  position: relative;
+  height:300px;
+  width: 300px;
+margin-left: 10px;
+  display: block;
+  float: left;
+}
+h2{
+  margin: auto;
+  padding-top: 230px;
+  width: 40%;
+  color: #B42B51;
+font-family: 'Allura', cursive;
+font-size: 40px;
+font-weight: normal;
+}
+p{
+  width:50%;
+  margin: auto auto 20px auto;
+}
+.top-nav{
+width: 50%;
+margin: auto;
+font-size: 30px;
+text-decoration: none;
+background-color: #ADCF9F;
+border-radius: 20px;
+clear: left;
+}
+.top-center a{
+  margin: auto 15px auto auto;
+  text-decoration: none;
+  color: #603601;
+
+}
+.top-center a:hover{
+  color: #FF7777;
+}
+.footer a{
+margin:auto;
+padding: 10px;
+text-decoration: none;
+}
+.bottom-container{
+  padding: 20px 0 20px;
+  background-color: #11999E;
+}
+.fa-instagram {
+
+  color: black;
+}
+.fa-facebook {
+
+  color: black;
+}
+
+.fa-twitter {
+
+  color: black;
+}
+
+.fa-linkedin {
+
+  color: black;
+}
+.footer p{
+  color: white;
+}
+.footer a:hover{
+  color: white;
+}
+img{
+margin: auto;
+
+  width: 20%;
+}
+
+
+
+/*.top-center .active{
+  margin: auto 15px auto auto;
+  text-decoration: none;
+  color: #2C3639;
+}
+.top-center .doodles{
+  margin: auto 15px auto auto;
+  text-decoration: none;
+  color: #2C3639;
+}
+.top-center .info{
+  margin: auto 15px auto auto;
+  text-decoration: none;
+  color: #2C3639;
+}
+.top-center .contact{
+  margin: auto 15px auto auto;
+  text-decoration: none;
+  color: #2C3639;
+}
+.top-center .insta{
+  margin: auto 15px auto auto;
+  text-decoration: none;
+  color: #2C3639;
+}
+.top-center .active:hover{
+  color: pink;
+}*/
